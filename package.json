@@ -1,7 +1,7 @@
 {
-  "name": "@uniswap/v2-core",
+  "name": "@bscex/core",
   "description": "🎛 Core contracts for the UniswapV2 protocol",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "homepage": "https://uniswap.org",
   "repository": {
     "type": "git",
