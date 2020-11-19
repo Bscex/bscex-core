@@ -6,7 +6,7 @@ import './libraries/SafeMath.sol';
 contract UniswapV2ERC20 is IUniswapV2ERC20 {
     using SafeMath for uint;
 
-    string public constant name = 'BSCX LP Token';
+    string public constant name = 'BSCX LP';
     string public constant symbol = 'BSCX';
     uint8 public constant decimals = 18;
     uint  public totalSupply;
